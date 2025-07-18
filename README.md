@@ -1,3 +1,4 @@
+[![Deploy Templatized Data Environment](https://github.com/khaireddine-arbouch/advanced-data-engineering-snowflake/actions/workflows/main.yml/badge.svg)](https://github.com/khaireddine-arbouch/advanced-data-engineering-snowflake/actions/workflows/main.yml)
 ## Advanced Data Engineering with Snowflake
 
 #### How to use this repo throughout the course:
